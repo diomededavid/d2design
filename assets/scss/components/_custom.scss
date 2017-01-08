@@ -1,0 +1,13 @@
+[data-magellan] a {
+  color: #333;
+  
+  &.active,
+  &.active:focus {
+    background: #666;
+    color: #fff;
+  }
+}
+
+.sticky-container {
+	height: 100%;
+}
