@@ -1,0 +1,9 @@
+[data-magellan] a {
+  color: #333;
+  
+  &.active,
+  &.active:focus {
+    background: #333;
+    color: #fff;
+  }
+}
